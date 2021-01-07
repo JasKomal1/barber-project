@@ -8,3 +8,8 @@ gem "pry"
 gem "require_all"
 gem "faker"
 gem 'activerecord-reset-pk-sequence', '~> 0.2.0'
+gem 'rake'
+
+gem "colorize", "~> 0.8.1"
+
+gem "rest-client", "~> 2.1"
